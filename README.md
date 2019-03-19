@@ -1,3 +1,3 @@
 # hello-world
 Just another repositoty
-printf(""hello world!)
+printf("hello world!")
